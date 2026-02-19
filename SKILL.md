@@ -3,8 +3,8 @@ name: roast-precision-generator
 description: Generate hyper-specific roast jokes that are funny because they're accurate, not just mean. Follows Nikki Glaser's "queen of the roast" methodology emphasizing specificity, recognition, intelligenc...
 license: MIT
 metadata:
+  version: 1.0.4858
   author: sethmblack
-  version: 1.0.4857
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - callbacks
